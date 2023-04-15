@@ -1,9 +1,8 @@
-<p align="center"><img src="https://media0.giphy.com/media/13FrpeVH09Zrb2/giphy.gif" width="200"/></p>
-<h1 align="center">hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
+<h1>hey there 👋</h1>
 
 ### :woman_technologist: &nbsp;About Me
 
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Germany.
+I am a Full Stack Developer from Germany.
 
 - 🔭 I’m a student and looking forward to building secure desktop and web applications.
 - 🌱 Currently Exploring Penetration Testing.
