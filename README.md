@@ -31,6 +31,4 @@ I am a Full Stack Developer from Germany.
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
 </p>
 
----
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xBitBuster&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
