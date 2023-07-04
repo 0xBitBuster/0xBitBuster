@@ -1,12 +1,9 @@
-<h1>hey there 👋</h1>
-
-### :woman_technologist: &nbsp;About Me
+<h1>h3ll0 👋</h1>
 
 I am a Full Stack Developer from Germany.
 
 - 🔭 I’m a student and looking forward to building secure desktop and web applications.
 - 🌱 Currently Exploring Penetration Testing.
-- ✨ I love memes.
 - 📫 Reach out to me on discord: 0xBitBuster#6782
 ---
 
