@@ -1,4 +1,4 @@
-<h1>h3llo 👋</h1>
+<h1>Hi 👋</h1>
 
 I am a Full Stack Developer from Germany.
 
