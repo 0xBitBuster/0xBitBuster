@@ -3,8 +3,7 @@
 I am a Full Stack Developer from Germany.
 
 - 🔭 I’m a student and looking forward to building secure desktop and web applications.
-- 🌱 Currently Exploring Penetration Testing.
-- 📫 Reach out to me on discord: 0xBitBuster
+- 🌱 Currently Exploring Game Development
 ---
 
 ### 🛠 &nbsp;Programming Languages and Tools
