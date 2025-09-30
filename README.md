@@ -2,9 +2,9 @@
 
 I’m a software dev from Germany who also writes tech books.
 
-✍️ I like breaking down tech topics in a way people actually understand <br/>
-💻 I build secure desktop and web apps <br/>
-🧹 Also busy cleaning up “vibe” code :) <br/>
+✍️ I like breaking down tech topics in a way people actually understand <br/><br/>
+💻 I build secure desktop and web apps <br/><br/>
+🧹 Also busy cleaning up “vibe” code :) <br/><br/>
 ---
 
 ### 🛠 &nbsp;Programming Languages and Tools
