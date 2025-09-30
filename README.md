@@ -4,9 +4,8 @@
 
 ✍️ I like breaking down tech topics in a way people actually understand <br/><br/>
 💻 I build secure desktop and web apps <br/><br/>
-🧹 Also busy cleaning up “vibe” code :) <br/><br/>
+🧹 Also busy cleaning up “vibe” code :)
 </p>
----
 
 ### 🛠 &nbsp;Programming Languages and Tools
 <p>
