@@ -1,10 +1,11 @@
 <h1>Hi 👋</h1>
 
-I’m a software dev from Germany who also writes tech books.
+<p>I’m a software dev from Germany who also writes tech books.<br/>
 
 ✍️ I like breaking down tech topics in a way people actually understand <br/><br/>
 💻 I build secure desktop and web apps <br/><br/>
 🧹 Also busy cleaning up “vibe” code :) <br/><br/>
+</p>
 ---
 
 ### 🛠 &nbsp;Programming Languages and Tools
