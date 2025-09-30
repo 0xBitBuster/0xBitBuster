@@ -2,8 +2,8 @@
 
 <p>I’m a software dev from Germany who also writes tech books.<br/>
 
-✍️ I like breaking down tech topics in a way people actually understand <br/><br/>
-💻 I build secure desktop and web apps <br/><br/>
+✍️ I like breaking down tech topics in a way people actually understand <br/>
+💻 I build secure desktop and web apps <br/>
 🧹 Also busy cleaning up “vibe” code :)
 </p>
 
