@@ -1,6 +1,6 @@
 ## Hi! I'm Tobias
 
-- 🇩🇪 I'm a software engineer and designer from Germany
+- 📌 I'm a software engineer and designer from Germany
 - 👕 Building [TryItOn](https://tryiton.now) which lets shoppers preview clothing on themselves before purchasing using AI
 - ✍️ Author of [Modern Web Development](https://www.amazon.com/dp/B0DRHDJKFF) A Beginner's Guide to HTML, CSS, Hosting, and SEO.
 - ❤️ Passionate about security, clean architecture and rockets
