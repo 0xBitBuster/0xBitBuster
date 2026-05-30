@@ -1,15 +1,10 @@
-<h1>Hi 👋</h1>
+## Hi! I'm Tobias
 
-<p>I’m a software dev from Germany who also writes tech books.<br/>
+- 🇩🇪 I'm a software engineer and designer from Germany
+- 👕 Building [TryItOn](https://tryiton.now) @ Atlassian in London
+- ✍️ Author of [Modern Web Development](https://www.amazon.com/dp/B0DRHDJKFF) A Beginner's Guide to HTML, CSS, Hosting, and SEO.
+- ❤️ Passionate about security, clean architecture and rockets
 
-✍️ I like breaking down tech topics in a way people actually understand <br/>
-💻 I build secure desktop and web apps <br/>
-🧹 Also busy cleaning up “vibe” code :)
-</p>
-
-<hr/>
-
-### 🛠 &nbsp;Programming Languages and Tools
 <p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="40" height="40"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="40" height="40"/>&nbsp;
